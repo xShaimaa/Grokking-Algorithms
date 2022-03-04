@@ -5,5 +5,5 @@ Starting from sorting and searching to help you build up your skills in thinking
 
 ## Table of Contents
 
-- [Chapter 1: Binary Search](/01-Binary\ Search/binary-search.py)
-- [Chapter 2: Selection Sort](/02-Selection\ Sort/selection-sort.py)
+- [Chapter 1: Binary Search](/01-Binary%20Search/binary-search.py)
+- [Chapter 2: Selection Sort](/02-Selection%20Sort/selection-sort.py)
