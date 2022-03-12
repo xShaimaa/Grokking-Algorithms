@@ -5,5 +5,9 @@ Starting from sorting and searching to help you build up your skills in thinking
 
 ## Table of Contents
 
-- [Chapter 1: Binary Search](/01-Binary%20Search/binary-search.py)
-- [Chapter 2: Selection Sort](/02-Selection%20Sort/selection-sort.py)
+| Chapter	 				 | Code																	|
+| ---------- 				 | -------------														|
+| Chapter 1: Binary Search   | [Binary Search Algorithm](/01-Binary%20Search/binary-search.py)		|
+| Chapter 2: Selection Sort  | [Selection Sort Algorithm](/02-Selection%20Sort/selection-sort.py)	|
+| Chapter 3: Recursion  	 | [Recursive Binary Search](/03-Recursion/recursion.py)				|
+| Chapter 4: Quick Sort  	 | [Quick Sort Algorithm](/04-Quick%20Sort/quick-sort.py)				|
